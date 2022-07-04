@@ -1,5 +1,6 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
+<<<<<<< HEAD
 export "FLUTTER_ROOT=C:\Users\azfar\flutter_windows_1.22.5-stable\flutter"
 export "FLUTTER_APPLICATION_PATH=D:\CSE\flutter\xylophone-flutter"
 export "FLUTTER_TARGET=lib\main.dart"
@@ -13,3 +14,17 @@ export "DART_OBFUSCATION=false"
 export "TRACK_WIDGET_CREATION=false"
 export "TREE_SHAKE_ICONS=false"
 export "PACKAGE_CONFIG=.packages"
+=======
+export "FLUTTER_ROOT=/Users/angelayu/Development/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/angelayu/AndroidStudioProjects/xylophone-flutter"
+export "COCOAPODS_PARALLEL_CODE_SIGN=true"
+export "FLUTTER_TARGET=/Users/angelayu/AndroidStudioProjects/xylophone-flutter/lib/main.dart"
+export "FLUTTER_BUILD_DIR=build"
+export "FLUTTER_BUILD_NAME=1.0.0"
+export "FLUTTER_BUILD_NUMBER=1"
+export "DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ=="
+export "DART_OBFUSCATION=false"
+export "TRACK_WIDGET_CREATION=true"
+export "TREE_SHAKE_ICONS=false"
+export "PACKAGE_CONFIG=/Users/angelayu/AndroidStudioProjects/xylophone-flutter/.dart_tool/package_config.json"
+>>>>>>> e0ae825b1751339e64b8355fe0b5ba7db0e57d95
